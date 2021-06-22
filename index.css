@@ -1,0 +1,20 @@
+#main > .panel.intro header>p.about-me-bio {
+    font-size: 14px;
+    overflow: auto;
+}
+
+.row.tech-main-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.devicon-postgresql-plain:before {
+    font-size: larger;
+}
+
+[class^=devicon-], [class*=" devicon-"] {
+    font-size: 26px;
+}
