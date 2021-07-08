@@ -64,3 +64,19 @@
     font-size: 24px;
     font-weight: 500;
 }
+
+
+.skill-body{
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.skills-header {
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.skill-sum {
+    font-weight: 550;
+    font-size: 18px;
+}
