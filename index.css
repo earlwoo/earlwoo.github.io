@@ -77,10 +77,28 @@
 }
 
 .skill-sum {
-    font-weight: 550;
+    font-weight: 600;
     font-size: 18px;
 }
 
-span>ul>li {
+ul>li {
     font-size: 16px;
+}
+
+.skills-first {
+    display: flex;
+    width: 100%;
+}
+
+.gif{
+    max-height: 200px;
+    max-width: 400px;
+    margin-left: 251px;
+    margin-top: 35px;
+    /* align-self: center; */
+}
+
+.article-title {
+    font-weight: 400;
+    font-size: 34px;
 }
