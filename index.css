@@ -94,10 +94,9 @@ ul>li {
 }
 
 .gif{
-    max-height: 200px;
-    max-width: 400px;
-    margin-left: 275px;
-    margin-top: 35px;
+    max-height: 275px;
+    margin-left: 180px;
+    margin-top: 25px;
     /* align-self: center; */
 }
 
